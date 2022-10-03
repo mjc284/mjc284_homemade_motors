@@ -1,2 +1,2 @@
 # mjc284_repurposing_stators
-Driving old stators and custom made rotors to create homemade motors.
+Building homemade AC motors by repurposing old stators and designing permanent-magnet rotors.
