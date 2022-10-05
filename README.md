@@ -11,7 +11,7 @@ This project consists of three motors made of a repurposed drill motor rotor, a 
 
 The drill rotor was driven by providing PWM pulses through an H-bridge and through the slip ring, with a strong permanent magnet under the rotor to provide the magnetic field. 
 
-![Drill_DC](/photos/drill_DC.png 25% "Drill DC")
+![Drill_DC](/photos/drill_DC.png "Drill DC")
 
 The drill motor stator was driven as a 2-pole AC motor by alternating the current through the coils with an H-bridge. Although this type of motor is not practical without a starting coil, the setup still managed to demonstrate that the rotor would turn half of the time clockwise and the other half counter-clockwise.
 
