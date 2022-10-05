@@ -4,7 +4,7 @@ Building homemade AC and DC motors by repurposing old stators and rotors.
 ![Front](/photos/front.jpeg "Front")
 
 ### Video demonstration:
-https://www.youtube.com/watch?v=WFz_ZSToyOA
+https://www.youtube.com/watch?v=uW4sdqWzGSA
 
 ### Objective:
 This project consists of three motors made of a repurposed drill motor rotor, a drill motor stator, and a fan motor stator respectively. All the repurposed parts were slavaged from broken electronics. 
