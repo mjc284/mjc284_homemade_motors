@@ -7,7 +7,9 @@ Building homemade AC and DC motors by repurposing old stators and rotors.
 https://www.youtube.com/watch?v=WFz_ZSToyOA
 
 ### Objective:
-This project consists of three motors made of a repurposed drill motor rotor, a drill motor stator, and a fan motor stator respectively. All the repurposed parts were slavaged from broken electronics. The drill rotor was driven by providing PWM pulses through an H-bridge and through the slip ring, with a strong permanent magnet under the rotor to provide the magnetic field. 
+This project consists of three motors made of a repurposed drill motor rotor, a drill motor stator, and a fan motor stator respectively. All the repurposed parts were slavaged from broken electronics. 
+
+The drill rotor was driven by providing PWM pulses through an H-bridge and through the slip ring, with a strong permanent magnet under the rotor to provide the magnetic field. 
 
 ![Front](/photos/front.jpeg "Front")
 
@@ -19,9 +21,11 @@ The fan stator was that of an 8-pole AC motor. However, there were three output 
 
 ![Front](/photos/front.jpeg "Front")
 
+Custom rotors were made for the 2-pole and 8-pole AC motor, which contains permananat magnets of opposite fields on each arms of the rotor.
+
 ### Project Workflow:
 - All the hardware and circuit were modelled using Fusion 360.
-- Some of the parts were milled from 6mm MDF using a desktop-CNC. 
-- 3D-printed some of the parts with postprocessing from Ultimaker-Cura.
+- Some of the parts were machined from 11mm MDF using a desktop-CNC. 
+- Some of the parts were 3D-printed with postprocessing from Ultimaker-Cura.
 - PCB was manufactured from the Fusion 360 gerber file by Chinese PCB services.
 - Arduino-pro mini was programmed and used to drive the circuit.
