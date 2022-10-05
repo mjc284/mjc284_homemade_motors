@@ -21,7 +21,7 @@ The fan stator was that of an 8-pole AC motor. However, there were three output 
 
 ![8-Pole_AC](/photos/8-pole_AC.png "8-Pole AC")
 
-Custom rotors were made for the 2-pole and 8-pole AC motor, which contains permananat magnets of opposite fields on each arms of the rotor.
+Custom rotors were made for the 2-pole and 8-pole AC motor, which contains permanent magnets of opposite fields on each arms of the rotor.
 
 ### Project Workflow:
 - All the hardware and circuit were modelled using Fusion 360.
