@@ -7,7 +7,7 @@ Building homemade AC and DC motors by repurposing old stators and rotors.
 https://www.youtube.com/watch?v=uW4sdqWzGSA
 
 ### Objective:
-This project consists of three motors made of a repurposed drill motor rotor, a drill motor stator, and a fan motor stator respectively. All the repurposed parts were slavaged from broken electronics. 
+This project consists of three motors made of a repurposed drill motor rotor, a drill motor stator, and a fan motor stator respectively. All the repurposed parts were salvaged from broken electronics. 
 
 The drill rotor was driven by providing PWM pulses through an H-bridge and through the slip ring, with a strong permanent magnet under the rotor to provide the magnetic field. 
 
