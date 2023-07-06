@@ -27,5 +27,5 @@ Custom rotors were made for the 2-pole and 8-pole AC motor, which contains perma
 - All the hardware and circuit were modelled using Fusion 360.
 - Some of the parts were machined from 11mm MDF using a desktop-CNC. 
 - Some of the parts were 3D-printed with postprocessing from Ultimaker-Cura.
-- PCB was manufactured from the Fusion 360 gerber file by Chinese PCB services.
+- PCB was manufactured from the Fusion 360 gerber file by commercial PCB services.
 - Arduino-pro mini was programmed and used to drive the circuit.
